@@ -1,0 +1,1 @@
+Sebagai backend developer, saya bertanggung jawab mengembangkan bagian server dari aplikasi. Tugas saya mengelola database, membuat API, serta memastikan data dapat diproses dan dikirim dengan baik ke frontend. Dengan backend, aplikasi dapat berjalan dengan stabil dan mampu menangani permintaan data dari pengguna secara efektif.
